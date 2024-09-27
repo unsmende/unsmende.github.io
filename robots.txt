@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://unsmende.github.io/sitemap.unsmende.gz
+Sitemap: https://unsmende.github.io/app/sitemap.unsmende.gz
+Sitemap: https://unsmende.github.io/assets/sitemap.unsmende.gz
+Sitemap: https://unsmende.github.io/css/sitemap.unsmende.gz
+Sitemap: https://unsmende.github.io/data/sitemap.unsmende.gz
+Sitemap: https://unsmende.github.io/includes/sitemap.unsmende.gz
+Sitemap: https://unsmende.github.io/item/sitemap.unsmende.gz
+Sitemap: https://unsmende.github.io/src/sitemap.unsmende.gz
